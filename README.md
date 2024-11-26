@@ -1,12 +1,13 @@
-- 👋 Olá, eu sou a @Duda1516
-- 👀 gosto de 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Olá, meu nome é _Duda_
+- 👀  sou _estudante_
+- 🌱 gosto das cores _vermelho e preto_
+- 💞️ tenho _16 anos_
+- 📫 vou a _igreja todo sábado e domingo_
+- 😄  gosto de passar tempo com _famíliares e namorado_
+- ⚡ gosto de sair com _meu namorado_
+- entre em contato comigo _marangoni.maria@escola.pr.gov.br_
 
-<!---
-Duda1516/Duda1516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![]
+  (https://media1.tenor.com/m/KO80NCIjQAUAAAAd/cat-smiling-cat.gif)
+  ![]
+  (https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif)
