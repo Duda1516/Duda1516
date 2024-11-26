@@ -7,7 +7,7 @@
 - ⚡ gosto de sair com _meu namorado_
 - entre em contato comigo _marangoni.maria@escola.pr.gov.br_
 
-  ![-]
+  ![_]
   (https://tenor.com/nJ5BEOKq8wc.gif)
   ![-]
   (https://media1.tenor.com/m/nisaHYy8yAYAAAAd/besito-catlove.gif)
